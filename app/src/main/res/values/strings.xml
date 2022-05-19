@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">pr9</string>
+    <string name="bluecheeseTitle">Блю чиз</string>
+    <string name="vetchinaigribiTitle">Ветчина и грибы</string>
+    <string name="fourcheeseTitle">Четыре сыра</string>
+
+    <string name="bluecheeseInfo">Идеальное сочетание: нежное куриное филе с кусочками сыра блю чиз, соусом Пармеджано, смесью итальянских сыров и сыром Моцарелла</string>
+    <string name="vetInfo">Нежная пицца с соусом "Чесночный Рэнч", Моцареллой, шампиньонами, ароматной ветчиной и чесноком</string>
+    <string name="fourcheeseInfo">Традиционное сочетание сыров: Моцарелла, мягкий молодой сыр, сыр с голубой плесенью, Реджанито, фирменный томатный соус и орегано</string>
+
+    <string name="korzina">Корзина</string>
+
+    <string name="bluecheesePrice">450 рублей</string>
+    <string name="VetPrice">400 рублей</string>
+    <string name="fourcheesePrice">400 рублей</string>
+
+    <string name="countBlueCheese">1</string>
+    <string name="countVetchina">1</string>
+    <string name="countfour">1</string>
+
+    <string name="Buy">Оплатить покупку</string>
+    
+    
+    <string name="Oplata">Олата и доставка</string>
+    <string name="dostavka">Доставка</string>
+
+
+    <string name="have">Как заберете заказ:</string>
+    <string name="q">Доставка</string>
+</resources>
